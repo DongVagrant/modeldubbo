@@ -1,9 +1,10 @@
-package com.wd.modeldubbo.common.pojo;
+package com.wd.modeldubboclient.dto.common;
 
 import com.github.pagehelper.PageInfo;
 
 import java.io.Serializable;
 import java.util.List;
+
 /**
  * 分页包装类
  *

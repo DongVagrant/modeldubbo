@@ -1,7 +1,7 @@
 package com.wd.modeldubbo.controller;
 
-import com.wd.modeldubbo.common.pojo.Result;
 import com.wd.modeldubbo.service.ITestService;
+import com.wd.modeldubboclient.dto.common.Result;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.wd.modeldubbo.common.pojo;
+package com.wd.modeldubboclient.dto.common;
 
 import java.io.Serializable;
 
